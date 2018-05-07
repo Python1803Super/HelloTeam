@@ -23,4 +23,7 @@ print("以后想学底层，还是要学C语言")
 print("Python是胶水语言")
 
 print("Python能够跨平台编程")
-    
+
+print("提升自己，才有选择的权利")
+
+print("人方为刀俎，你为鱼肉")
