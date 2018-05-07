@@ -41,4 +41,4 @@ print("你的对手在磨刀")
 
 print("隔壁老王在练腰")
 
-    
+print("it's impossible") 
