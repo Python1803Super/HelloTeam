@@ -17,3 +17,7 @@ print("掉网了")
 
 print("你们居然说没掉，还说不动了")
     
+print("Python是胶水语言")
+
+print("Python能够跨平台编程")
+    
